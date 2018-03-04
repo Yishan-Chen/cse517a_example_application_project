@@ -20,16 +20,16 @@ README
 The README file should include
 
 * 1. Description of what your team did
-* We use tensorflow to do the linear classication on the mnist dataset.
+*    We use tensorflow to do the linear classication on the mnist dataset.
 
 * 2. Methods used to accomplish each part
-* Linear classfication.
+*    Linear classfication.
 
 * 3. Potential difficulties faced
-* Unable to calculate the accuracy because of its type(numpy.float)
+*    Unable to calculate the accuracy because of its type(numpy.float)
 
 * 4. Resources used
-* tensorflow
+*    tensorflow
 
 * 5. Description of how to run the code in the folder
-Download the dataset and put it in path of python file then you can run the .py directly.
+*    Download the dataset and put it in path of python file then you can run the .py directly.
