@@ -32,4 +32,4 @@ Resources used
 * MNIST dataset, Sk-learn, pandas, matplotlib package.
 
 Description of how to run the code in the folder
-* Just run the 
+* Just run the PCA-OVA.py
