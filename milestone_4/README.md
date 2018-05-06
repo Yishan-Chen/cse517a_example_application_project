@@ -25,12 +25,12 @@ Description of what your team did
 * Implementation of ANN with 10-fold cross validation on MNIST dataset.
 
 Methods used to accomplish each part
-*First convert matrix data into vector. Then split the whole dataset into train, test and validation dataset. Convert the 
+* First convert matrix data into vector. Then split the whole dataset into train, test and validation dataset. Convert the 
 original data to dummy vector. Build a ANN with two fully connected hidden layers using Keras package. Choose sigmoid function as the active function. Make prediction, compare with true label and get the error rate.
 
-*	Potential difficulties faced
-Hard to deal with muti-classification.
+Potential difficulties faced
+* Hard to deal with muti-classification.
 
-*	Resources used
-MNIST dataset, Sk-learn, pandas, matplotlib, Keras package.
+Resources used
+* MNIST dataset, Sk-learn, pandas, matplotlib, Keras package.
 
